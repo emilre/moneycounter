@@ -124,7 +124,7 @@ def in_wallet(wallet):
 def print_in_wallet():
     print('[1] Add a Bill')
     print('[2] Check balance')
-    print('[3] Set/delete cash back category')
+    print('[3] Show all transactions')
     print('[4] Delete a bill')
     print('<------------>')
     print('[5] See Statistics')
